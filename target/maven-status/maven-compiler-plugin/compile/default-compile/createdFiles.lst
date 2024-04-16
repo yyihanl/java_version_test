@@ -1,0 +1,14 @@
+com/example/model/Order.class
+com/example/CrudApplication.class
+com/example/repository/ProductRepository.class
+com/example/dto/CustomerDTO.class
+com/example/service/ProductService.class
+com/example/repository/CustomerRepository.class
+com/example/model/Customer.class
+com/example/service/OrderService.class
+com/example/dto/OrderDTO.class
+com/example/controller/CrudController.class
+com/example/repository/OrderRepository.class
+com/example/dto/ProductDTO.class
+com/example/service/CustomerService.class
+com/example/model/Product.class

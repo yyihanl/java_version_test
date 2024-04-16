@@ -1,0 +1,14 @@
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/service/ProductService.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/controller/CrudController.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/dto/ProductDTO.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/repository/CustomerRepository.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/model/Order.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/repository/OrderRepository.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/model/Product.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/repository/ProductRepository.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/dto/CustomerDTO.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/dto/OrderDTO.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/service/OrderService.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/CrudApplication.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/service/CustomerService.java
+/Users/vsenger/Downloads/amazon-q-transform-demo/src/main/java/com/example/model/Customer.java
